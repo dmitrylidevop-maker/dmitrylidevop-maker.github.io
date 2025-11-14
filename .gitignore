@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Original files
+556d50ef-8de8-47c7-90c0-370b691b5bed.jpg
+CV_DMITRY*.docx
